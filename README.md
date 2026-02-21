@@ -174,8 +174,8 @@ Install via:
 
 # Research Contribution
 
-Digital Wind demonstrates that predictive coordination alone --- without
-infrastructure expansion --- can reduce offshore wind curtailment within
+Digital Wind demonstrates that predictive coordination alone - without
+infrastructure expansion - can reduce offshore wind curtailment within
 existing Irish grid limits.
 
 The framework is modular and extensible toward:
