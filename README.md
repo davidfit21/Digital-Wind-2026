@@ -48,7 +48,13 @@ system constraints.
             readme.txt
 
 ------------------------------------------------------------------------
+# External Files Used:
+- EirGrid (2025) System Data Qtr-Hourly 2025 (v11): https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fcms.eirgrid.ie%2Fsites%2Fdefault%2Ffiles%2Fpublications%2FSystem-Data-Qtr-Hourly-2025-v11.xlsx&wdOrigin=BROWSELINK
 
+- EirGrid (2025) DD-HH 2025 (v10): https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fcms.eirgrid.ie%2Fsites%2Fdefault%2Ffiles%2Fpublications%2FDD_HH_2026.xlsx&wdOrigin=BROWSELINK
+
+- A Data Set With 40 Years of Hourly Wind Speeds and Electricity Production: https://figshare.com/articles/dataset/Dataset_for_the_Paper_Analyzing_Europe_s_Biggest_Offshore_Wind_Farms_a_Data_set_With_40_Years_of_Hourly_Wind_Speeds_and_Electricity_Production_/19139648
+------------------------------------------------------------------------
 # Workflow Overview
 
 ## Stage 1 --- Exploratory System Analysis
