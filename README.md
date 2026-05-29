@@ -13,8 +13,8 @@ The project combines:
 -   Closed-loop dispatch simulation
 -   Scenario-based offshore expansion stress testing
 
-The framework evaluates how anticipatory coordination --- without new
-infrastructure --- can reduce renewable curtailment under realistic
+The framework evaluates how anticipatory coordination - without new
+infrastructure, can reduce renewable curtailment under realistic
 system constraints.
 
 ------------------------------------------------------------------------
